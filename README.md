@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 what do you think about the future</h3>
 <br/>
 <h3 align="center">
-Sometime I Feel "Punggung Berat Dek"</h3>
+Sometime I Feel "Proses itu berat, tapi hasilnya akan lebih indah"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Myprofilee&label=Profile%20views&color=0e75b6&style=flat" alt="andrep" /> </p>
 
