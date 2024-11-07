@@ -55,9 +55,9 @@ Sometime I Feel "Proses itu berat, tapi hasilnya akan lebih indah"</h3>
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Myprofilee&show_icons=true&locale=en&layout=donut" alt="andrep" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrep13-dev&show_icons=true&locale=en&layout=donut" alt="andrep" />
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Myprofilee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="andrep" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrep13-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="andrep" />
 </p>
